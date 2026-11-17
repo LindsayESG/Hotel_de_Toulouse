@@ -1,0 +1,14 @@
+# Hôtel de Toulouse
+
+L'Hôtel de Toulouse est un hôtel indépendant 3 étoiles, de charme, en plein centre-ville de Besançon. Nous accueillons des séjours professionnels et touristiques, avec 50 chambres réparties en 6 catégories, un petit-déjeuner, une terrasse, un jardin et un parking privé et sécurisé sur réservation.
+
+- / : Accueil de l'hôtel, présentation générale et réservation.
+- /chambres/ : 50 chambres réparties en 6 catégories.
+- /reservation/ : formulaire de demande de réservation directe.
+- /salle-seminaire-besancon/ : 2 salles pour événements professionnels jusqu'à 20 personnes.
+- /restaurant/ : petit déjeuner et espace de restauration.
+- /spa/ : projet d'espace bien-être.
+- /qui-sommes-nous/ : identité de l'établissement et accueil.
+- /galerie-photos/ : galerie de chambres, jardin, terrasse, petit déjeuner et salles.
+- /tourisme-activites/ : conseils pour visiter Besançon.
+- /acces-contact/ : accès, parking, contact et demande d'information.
