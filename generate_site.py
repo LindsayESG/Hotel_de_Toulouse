@@ -203,7 +203,7 @@ home_content = '''
   <h2>Un hôtel en plein centre-ville de Besançon</h2>
   <p>Nous proposons un hébergement au cœur de la ville, avec un accueil attentif et des espaces pensés pour les séjours courts et longs.</p>
   <figure>
-    <img src="/images/hotel-toulouse-besancon-facade.svg" alt="Façade de l'Hôtel de Toulouse, hôtel 3 étoiles de charme en centre-ville de Besançon" width="800" height="520" loading="eager">
+    <img src="https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1200&q=80" alt="Façade de l'Hôtel de Toulouse, hôtel 3 étoiles de charme en centre-ville de Besançon" width="1200" height="900" loading="eager">
   </figure>
 </section>
 <section>
@@ -211,7 +211,7 @@ home_content = '''
   <h3>6 catégories pour tous les séjours</h3>
   <p>L'établissement compte 50 chambres réparties en 6 catégories, pour convenir à différents types de séjours.</p>
   <figure>
-    <img src="/images/chambre-hotel-toulouse-besancon.svg" alt="Chambre de l'Hôtel de Toulouse à Besançon avec literie confortable et décor de charme" width="800" height="520" loading="lazy">
+    <img src="https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1200&q=80" alt="Chambre de l'Hôtel de Toulouse à Besançon avec literie confortable et décor de charme" width="1200" height="900" loading="lazy">
   </figure>
   <p><a href="/chambres/">Voir les chambres</a></p>
 </section>
@@ -219,7 +219,7 @@ home_content = '''
   <h2>Jardin, cour et petit déjeuner</h2>
   <p>Le jardin et la terrasse offrent un espace calme au centre de Besançon. Le petit-déjeuner est proposé à l'hôtel.</p>
   <figure>
-    <img src="/images/jardin-terrasse-hotel-toulouse-besancon.svg" alt="Terrasse et jardin de l'Hôtel de Toulouse, un espace calme au centre de Besançon" width="800" height="520" loading="lazy">
+    <img src="https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=1200&q=80" alt="Terrasse et jardin de l'Hôtel de Toulouse, un espace calme au centre de Besançon" width="1200" height="900" loading="lazy">
   </figure>
   <p><a href="/restaurant/">Découvrir le restaurant</a> · <a href="/galerie-photos/">Voir la galerie</a></p>
 </section>
@@ -262,7 +262,7 @@ access_content = '''
   <h2>Nous trouver en centre-ville</h2>
   <p>L'Hôtel de Toulouse se trouve en plein centre-ville de Besançon, dans un environnement pratique pour profiter du centre historique et des services de la ville.</p>
   <figure>
-    <img src="/images/plan-acces-hotel-toulouse-besancon.svg" alt="Plan d'accès de l'Hôtel de Toulouse, hôtel en centre-ville de Besançon" width="800" height="520" loading="lazy">
+    <img src="https://images.unsplash.com/photo-1502920514313-52581002a659?auto=format&fit=crop&w=1200&q=80" alt="Centre-ville de Besançon et accès à l'Hôtel de Toulouse, hôtel en centre-ville" width="1200" height="900" loading="lazy">
   </figure>
 </section>
 <section>
@@ -312,12 +312,12 @@ chambres_content = '''
 <section>
   <h2>6 catégories de chambres</h2>
   <div class="category-grid">
-    <article><h3>Chambre catégorie 1</h3><figure><img src="/images/chambre-categorie-1.svg" alt="Chambre de catégorie 1 de l'Hôtel de Toulouse à Besançon" width="800" height="520" loading="lazy"></figure></article>
-    <article><h3>Chambre catégorie 2</h3><figure><img src="/images/chambre-categorie-2.svg" alt="Chambre de catégorie 2 de l'Hôtel de Toulouse à Besançon" width="800" height="520" loading="lazy"></figure></article>
-    <article><h3>Chambre catégorie 3</h3><figure><img src="/images/chambre-categorie-3.svg" alt="Chambre de catégorie 3 de l'Hôtel de Toulouse à Besançon" width="800" height="520" loading="lazy"></figure></article>
-    <article><h3>Chambre catégorie 4</h3><figure><img src="/images/chambre-categorie-4.svg" alt="Chambre de catégorie 4 de l'Hôtel de Toulouse à Besançon" width="800" height="520" loading="lazy"></figure></article>
-    <article><h3>Chambre catégorie 5</h3><figure><img src="/images/chambre-categorie-5.svg" alt="Chambre de catégorie 5 de l'Hôtel de Toulouse à Besançon" width="800" height="520" loading="lazy"></figure></article>
-    <article><h3>Chambre catégorie 6</h3><figure><img src="/images/chambre-categorie-6.svg" alt="Chambre de catégorie 6 de l'Hôtel de Toulouse à Besançon" width="800" height="520" loading="lazy"></figure></article>
+    <article><h3>Chambre catégorie 1</h3><figure><img src="https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1200&q=80" alt="Chambre de catégorie 1 de l'Hôtel de Toulouse à Besançon" width="1200" height="900" loading="lazy"></figure></article>
+    <article><h3>Chambre catégorie 2</h3><figure><img src="https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1200&q=80" alt="Chambre de catégorie 2 de l'Hôtel de Toulouse à Besançon" width="1200" height="900" loading="lazy"></figure></article>
+    <article><h3>Chambre catégorie 3</h3><figure><img src="https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1200&q=80" alt="Chambre de catégorie 3 de l'Hôtel de Toulouse à Besançon" width="1200" height="900" loading="lazy"></figure></article>
+    <article><h3>Chambre catégorie 4</h3><figure><img src="https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1200&q=80" alt="Chambre de catégorie 4 de l'Hôtel de Toulouse à Besançon" width="1200" height="900" loading="lazy"></figure></article>
+    <article><h3>Chambre catégorie 5</h3><figure><img src="https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1200&q=80" alt="Chambre de catégorie 5 de l'Hôtel de Toulouse à Besançon" width="1200" height="900" loading="lazy"></figure></article>
+    <article><h3>Chambre catégorie 6</h3><figure><img src="https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1200&q=80" alt="Chambre de catégorie 6 de l'Hôtel de Toulouse à Besançon" width="1200" height="900" loading="lazy"></figure></article>
   </div>
 </section>
 <section>
@@ -390,7 +390,7 @@ restaurant_content = '''
   <h2>Le petit déjeuner</h2>
   <p>L'hôtel propose un petit-déjeuner soigné, avec un accueil simple et agréable pour les clients qui se réveillent au cœur de Besançon.</p>
   <figure>
-    <img src="/images/petit-dejeuner-hotel-toulouse-besancon.svg" alt="Petit déjeuner servi à l'Hôtel de Toulouse, hôtel de charme au centre de Besançon" width="800" height="520" loading="lazy">
+    <img src="https://images.unsplash.com/photo-1521017432531-fbd92d768814?auto=format&fit=crop&w=1200&q=80" alt="Petit déjeuner servi à l'Hôtel de Toulouse, hôtel de charme au centre de Besançon" width="1200" height="900" loading="lazy">
   </figure>
 </section>
 <section>
@@ -420,25 +420,25 @@ gallery_content = '''
 <section>
   <h2>Les chambres</h2>
   <div class="gallery-grid">
-    <figure><img src="/images/galerie-chambre-1.svg" alt="Chambre de l'Hôtel de Toulouse à Besançon, vue 1" width="800" height="520" loading="lazy"></figure>
-    <figure><img src="/images/galerie-chambre-2.svg" alt="Chambre de l'Hôtel de Toulouse à Besançon, vue 2" width="800" height="520" loading="lazy"></figure>
-    <figure><img src="/images/galerie-chambre-3.svg" alt="Chambre de l'Hôtel de Toulouse à Besançon, vue 3" width="800" height="520" loading="lazy"></figure>
+    <figure><img src="https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1200&q=80" alt="Chambre de l'Hôtel de Toulouse à Besançon, vue 1" width="1200" height="900" loading="lazy"></figure>
+    <figure><img src="https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1200&q=80" alt="Chambre de l'Hôtel de Toulouse à Besançon, vue 2" width="1200" height="900" loading="lazy"></figure>
+    <figure><img src="https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1200&q=80" alt="Chambre de l'Hôtel de Toulouse à Besançon, vue 3" width="1200" height="900" loading="lazy"></figure>
   </div>
 </section>
 <section>
   <h2>Jardin, terrasse et cour</h2>
   <div class="gallery-grid">
-    <figure><img src="/images/galerie-jardin-terrasse-1.svg" alt="Jardin et terrasse de l'Hôtel de Toulouse à Besançon, vue 1" width="800" height="520" loading="lazy"></figure>
-    <figure><img src="/images/galerie-jardin-terrasse-2.svg" alt="Jardin et terrasse de l'Hôtel de Toulouse à Besançon, vue 2" width="800" height="520" loading="lazy"></figure>
-    <figure><img src="/images/galerie-jardin-terrasse-3.svg" alt="Jardin et terrasse de l'Hôtel de Toulouse à Besançon, vue 3" width="800" height="520" loading="lazy"></figure>
+    <figure><img src="https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=1200&q=80" alt="Jardin et terrasse de l'Hôtel de Toulouse à Besançon, vue 1" width="1200" height="900" loading="lazy"></figure>
+    <figure><img src="https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=1200&q=80" alt="Jardin et terrasse de l'Hôtel de Toulouse à Besançon, vue 2" width="1200" height="900" loading="lazy"></figure>
+    <figure><img src="https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=1200&q=80" alt="Jardin et terrasse de l'Hôtel de Toulouse à Besançon, vue 3" width="1200" height="900" loading="lazy"></figure>
   </div>
 </section>
 <section>
   <h2>Petit déjeuner et salles de réunion</h2>
   <div class="gallery-grid">
-    <figure><img src="/images/galerie-petit-dejeuner-salle-reunion-1.svg" alt="Petit déjeuner et salle de réunion de l'Hôtel de Toulouse à Besançon, vue 1" width="800" height="520" loading="lazy"></figure>
-    <figure><img src="/images/galerie-petit-dejeuner-salle-reunion-2.svg" alt="Petit déjeuner et salle de réunion de l'Hôtel de Toulouse à Besançon, vue 2" width="800" height="520" loading="lazy"></figure>
-    <figure><img src="/images/galerie-petit-dejeuner-salle-reunion-3.svg" alt="Petit déjeuner et salle de réunion de l'Hôtel de Toulouse à Besançon, vue 3" width="800" height="520" loading="lazy"></figure>
+    <figure><img src="https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&w=1200&q=80" alt="Petit déjeuner et salle de réunion de l'Hôtel de Toulouse à Besançon, vue 1" width="1200" height="900" loading="lazy"></figure>
+    <figure><img src="https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&w=1200&q=80" alt="Petit déjeuner et salle de réunion de l'Hôtel de Toulouse à Besançon, vue 2" width="1200" height="900" loading="lazy"></figure>
+    <figure><img src="https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&w=1200&q=80" alt="Petit déjeuner et salle de réunion de l'Hôtel de Toulouse à Besançon, vue 3" width="1200" height="900" loading="lazy"></figure>
   </div>
 </section>
 <p><a class="button button-primary" href="/reservation/">Réserver une chambre</a></p>
@@ -460,7 +460,7 @@ spa_content = '''
   <h2>Notre projet bien-être</h2>
   <p>Le projet d'espace bien-être de l'Hôtel de Toulouse s'inscrit dans une logique de confort et de relaxation à Besançon, dans le centre-ville.</p>
   <figure>
-    <img src="/images/espace-bien-etre-hotel-toulouse-besancon.svg" alt="Ambiance détente à l'Hôtel de Toulouse, hôtel avec projet d'espace bien-être à Besançon" width="800" height="520" loading="lazy">
+    <img src="https://images.unsplash.com/photo-1515377905703-c4788e51af15?auto=format&fit=crop&w=1200&q=80" alt="Ambiance détente à l'Hôtel de Toulouse, hôtel avec projet d'espace bien-être à Besançon" width="1200" height="900" loading="lazy">
   </figure>
 </section>
 <section>
@@ -490,7 +490,7 @@ about_content = '''
   <h2>Une histoire et une architecture à Besançon</h2>
   <p>L'Hôtel de Toulouse est un hôtel de charme en plein centre de Besançon, avec un accueil attentionné et une ambiance accueillante.</p>
   <figure>
-    <img src="/images/hotel-de-charme-besancon-interieur.svg" alt="Hall d'accueil de l'Hôtel de Toulouse, hôtel de charme à Besançon" width="800" height="520" loading="lazy">
+    <img src="https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?auto=format&fit=crop&w=1200&q=80" alt="Hall d'accueil de l'Hôtel de Toulouse, hôtel de charme à Besançon" width="1200" height="900" loading="lazy">
   </figure>
 </section>
 <section>
@@ -527,7 +527,7 @@ seminaire_content = '''
   <h3>Séminaire avec hébergement</h3>
   <p>Les équipes peuvent organiser un séminaire avec hébergement en fonction des besoins de leur séjour à Besançon.</p>
   <figure>
-    <img src="/images/salle-seminaire-hotel-toulouse-besancon.svg" alt="Salle de séminaire de l'Hôtel de Toulouse à Besançon, installée pour une réunion de 20 personnes" width="800" height="520" loading="lazy">
+    <img src="https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&w=1200&q=80" alt="Salle de séminaire de l'Hôtel de Toulouse à Besançon, installée pour une réunion de 20 personnes" width="1200" height="900" loading="lazy">
   </figure>
 </section>
 <section>
@@ -595,7 +595,7 @@ travel_content = '''
   <h2>Séjourner à l'Hôtel de Toulouse</h2>
   <p>Le centre-ville de Besançon, les parcours touristiques et le calme de l'hôtel offrent un séjour agréable à la ville.</p>
   <figure>
-    <img src="/images/besancon-citadelle-panorama.svg" alt="Vue sur la Citadelle de Besançon et la boucle du Doubs" width="800" height="520" loading="lazy">
+    <img src="https://images.unsplash.com/photo-1502920514313-52581002a659?auto=format&fit=crop&w=1200&q=80" alt="Vue sur la Citadelle de Besançon et la boucle du Doubs" width="1200" height="900" loading="lazy">
   </figure>
   <p><a href="/acces-contact/">Accès et contact</a> · <a href="/chambres/">Découvrir les chambres</a> · <a href="/restaurant/">Le petit déjeuner</a></p>
   <p><a href="https://www.besancon-tourisme.com" target="_blank" rel="noopener noreferrer">Office de tourisme de Besançon</a></p>
